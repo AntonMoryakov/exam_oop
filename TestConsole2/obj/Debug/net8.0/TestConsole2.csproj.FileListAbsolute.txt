@@ -1,0 +1,14 @@
+/media/anton/Диск F/Exam/TestConsole2/bin/Debug/net8.0/TestConsole2
+/media/anton/Диск F/Exam/TestConsole2/bin/Debug/net8.0/TestConsole2.deps.json
+/media/anton/Диск F/Exam/TestConsole2/bin/Debug/net8.0/TestConsole2.runtimeconfig.json
+/media/anton/Диск F/Exam/TestConsole2/bin/Debug/net8.0/TestConsole2.dll
+/media/anton/Диск F/Exam/TestConsole2/bin/Debug/net8.0/TestConsole2.pdb
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.GeneratedMSBuildEditorConfig.editorconfig
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.AssemblyInfoInputs.cache
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.AssemblyInfo.cs
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.csproj.CoreCompileInputs.cache
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.dll
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/refint/TestConsole2.dll
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.pdb
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/TestConsole2.genruntimeconfig.cache
+/media/anton/Диск F/Exam/TestConsole2/obj/Debug/net8.0/ref/TestConsole2.dll
