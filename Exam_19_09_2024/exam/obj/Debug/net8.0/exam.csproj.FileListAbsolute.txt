@@ -1,0 +1,14 @@
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/bin/Debug/net8.0/exam
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/bin/Debug/net8.0/exam.deps.json
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/bin/Debug/net8.0/exam.runtimeconfig.json
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/bin/Debug/net8.0/exam.dll
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/bin/Debug/net8.0/exam.pdb
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.AssemblyInfoInputs.cache
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.AssemblyInfo.cs
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.csproj.CoreCompileInputs.cache
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.dll
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/refint/exam.dll
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.pdb
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/exam.genruntimeconfig.cache
+/media/anton/Диск F/Exam/Exam_19_09_2024/exam/obj/Debug/net8.0/ref/exam.dll
