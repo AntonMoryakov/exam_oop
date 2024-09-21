@@ -1,0 +1,14 @@
+/media/anton/Диск F/Exam/16_zadanie/bin/Debug/net8.0/16_zadanie
+/media/anton/Диск F/Exam/16_zadanie/bin/Debug/net8.0/16_zadanie.deps.json
+/media/anton/Диск F/Exam/16_zadanie/bin/Debug/net8.0/16_zadanie.runtimeconfig.json
+/media/anton/Диск F/Exam/16_zadanie/bin/Debug/net8.0/16_zadanie.dll
+/media/anton/Диск F/Exam/16_zadanie/bin/Debug/net8.0/16_zadanie.pdb
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.AssemblyInfoInputs.cache
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.AssemblyInfo.cs
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.csproj.CoreCompileInputs.cache
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.dll
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/refint/16_zadanie.dll
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.pdb
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/16_zadanie.genruntimeconfig.cache
+/media/anton/Диск F/Exam/16_zadanie/obj/Debug/net8.0/ref/16_zadanie.dll
